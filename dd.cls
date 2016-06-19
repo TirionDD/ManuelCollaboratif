@@ -1,6 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{dd}[2016/04/29 My custom dd class]
 %Todo
+% Setup table of content
 % Color of titles, no vertical spacing after them
 % Make special table for class features (1 and 2 columns)
 % Make special tables for extra spell lists
